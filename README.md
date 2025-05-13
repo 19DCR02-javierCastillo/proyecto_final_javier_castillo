@@ -124,7 +124,7 @@
 	<!--Inicio del pie de página-->
 	<hr noshade="10px" size="5px">
 	<center>
-	<h4>Tics I - 2025 <br>elaborado por JC</h6>
+	<h4>Tics I - 2025 <br>elaborado por JC
 		</center>
 		<!--final del pie de páfina-->
 <body>
